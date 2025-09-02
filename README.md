@@ -2,6 +2,9 @@
 
 A modern food ordering web application built with React, TypeScript, Vite, Zustand, and Tailwind CSS.
 
+## Live website link
+https://food-ordering-indol-iota.vercel.app
+
 ## Features
 
 - Browse menu items by category and search
