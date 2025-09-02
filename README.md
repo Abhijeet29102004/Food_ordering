@@ -1,4 +1,4 @@
-# TastyBites Food Ordering App
+# TastyBites Food Ordering Website
 
 A modern food ordering web application built with React, TypeScript, Vite, Zustand, and Tailwind CSS.
 
