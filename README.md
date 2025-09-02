@@ -63,7 +63,7 @@ Food_ordering/
 
 1. **Clone the repository:**
    ```sh
-   git clone <repo-url>
+   git clone https://github.com/Abhijeet29102004/Food_ordering.git
    cd Food_ordering
    ```
 
